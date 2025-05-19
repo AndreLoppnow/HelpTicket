@@ -1,4 +1,4 @@
-# 🛠️ HelpDesk Pro
+# 🛠️ HelpTicket
 
 Sistema de Gestão de Chamados de TI, desenvolvido para empresas e equipes de suporte técnico. O projeto permite o registro, acompanhamento e encerramento de chamados de forma prática e organizada, otimizando a comunicação entre usuários e técnicos.
 
